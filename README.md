@@ -5,7 +5,7 @@
 
 ### 📊 Power BI | SQL | Python
 
-![Dashboard](Screenshot-2025-11-10-133141.png)
+![Dashboard](dashboard (2).png)
 
 
 
