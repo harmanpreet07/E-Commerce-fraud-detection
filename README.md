@@ -5,7 +5,7 @@
 
 ### 📊 Power BI | SQL | Python
 
-![Dashboard](dashboard (2).png)
+![Dashboard](https://github.com/harmanpreet07/E-Commerce-fraud-detection/blob/main/dashboard%20(2).png)
 
 
 
